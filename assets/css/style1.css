@@ -1,0 +1,11 @@
+.col-md-3 {
+    border: 2px solid;
+  }
+  .col-md-4 {
+    border: 3px solid;
+  }
+  body {
+    font-size: 200%;
+    color: white;
+  }
+  
